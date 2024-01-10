@@ -3,5 +3,11 @@ Two no addition
   n2
   res=n1+n2
 
+add another no 
+a
+b
+c=a+b
+done with second way
+
 
   
